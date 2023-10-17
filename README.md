@@ -15,8 +15,4 @@ os
 tkinter
 sys
 PIL
-Group Members:
 
-Jasleen - 102118064 - Worked on designing the algorithm for Cartoonifying the image
-Aarushi - 102118024 - Worked on designing the algorithm for Cartoonifying the image
-Shivangi - 102118008 - Worked on designing the GUI of the application.
